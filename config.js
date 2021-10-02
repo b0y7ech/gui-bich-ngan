@@ -11,7 +11,7 @@ const CONFIG = {
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh Pách quá nhà đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Chời chời. Quá là gõ gàng nuôn. Pách biết mà, Pách cũng thích Ngưn lắm 🥰',
+    mess: 'Chời chời. Quá là gõ gàng nuôn. Pách biết mà, Pách cũng yêu Ngưn Ngưn lắm 🥰',
     messDesc: '💬💬 Call me nhoaz babae. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://m.me/b0y7ech'
